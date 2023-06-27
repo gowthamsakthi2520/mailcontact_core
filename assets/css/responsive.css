@@ -1,0 +1,338 @@
+
+@media only screen and (max-width: 767px){
+
+    
+.pt-12{
+    padding-top: 12px;
+  }
+  /* .about-cont{
+    margin-top: 3rem!important;
+} */
+.about p {
+    color: #fabe30;
+    padding-bottom: 30px;
+    font-size: 19px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+#next-slide p{
+    font-size: 16px;
+}
+.price-demo p{
+    font-size: 17px;
+}
+.prod-desc img{
+    width: 65px;
+    height: 65px;
+    border: 1px solid #fabe66;
+    border-radius: 50%;
+    padding: 10px;
+}
+    .navbar-brand{
+        width:100px;
+    }
+    .navbar-expand-lg .navbar-collapse{
+        padding-left: 0px;
+        background-color: #ffffff;
+    }
+    .video-banner video{
+        height:auto !important;
+    }
+    .video-banner{
+        padding-top: 57px;
+    }
+    .header{
+            background: black;
+    }
+    
+    .hamburger{
+     
+    position: absolute;
+    right: 5%;
+    top: 20px;
+        
+    }
+    .mob-mt-50{
+        margin-top: 50px;
+    }
+    .navbar{
+            padding: 5px 0 !important;
+    }
+    .nav-link{
+        color: #000;
+    }
+    .service{
+        padding-bottom: 0px !important;
+    }
+    .testimonial{
+        padding-bottom: 0px;
+    }
+    .contact{
+        padding-top: 30px; 
+    }
+    .about-details{
+        padding-top: 30px;
+    }
+    .swiper-button-next{
+        display: none;
+    }
+    .swiper-button-prev{
+        display: none;
+    }
+    #next-slide p{
+        padding-bottom: 0px;
+    }
+    .experience img {
+        width: 50%;
+    }
+    .experience p{
+        font-size: 17px;
+    }
+    /* About */
+    .aboutcont{
+        margin-top: 30px;
+    }
+    /* Product as Service */
+    .about-area .about-image img{
+        margin-bottom: 40px;
+    }
+    /* Event Rental */
+    blockquote{
+        font-size: 25px !important;
+        margin: 0em 10px !important;
+    }
+    .event .our-service-area i{
+        font-size: 35px;
+    }
+    .rental{
+        padding-bottom: 30px !important;
+    }
+    .card{
+        max-width: 100% !important;
+    }
+    .event-img img{
+        margin-bottom: 30px;
+    }
+    .price{
+        height: auto !important;
+    }
+    .faclitabs{
+        /* flex-wrap: nowrap;*/
+        /*overflow: auto;*/
+        /*height: 100%;*/
+        /*align-items: center;*/
+        /*flex-direction: row !important;*/
+    }
+    .fecility ul li{
+        border-bottom: none !important;
+    }
+    .border-full{
+        border: none !important;
+    }
+    .fecility ul li .nav-link{
+        font-size: 15px;
+    }
+    .web-view{
+        display: none;
+    }
+    .product-image img{
+        width: 500px;
+        height: auto;
+    }
+    .product-image {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .product-area{
+        padding-top: 0px;
+    }
+    .product{
+        padding-top: 50px;
+    }
+    
+    .web-view-tab{
+        display:none;
+    }
+h3.area{
+    color:#fabe30;
+    display:block;
+}
+   
+   .abt-banner {
+    margin-top: 50px;
+} 
+.rs-contact.contact-style3 .contact-drop-line{
+    padding: 45px 15px 45px 15px !important;
+}
+.rc-anchor{
+    width: 273px !important;
+}
+.web{
+    display: none;
+}
+.testimonial{
+   padding-top: 0px; 
+}
+
+   
+}
+@media only screen and (min-width: 767px){
+    .mob-view{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 991px){ 
+    .faclitabs{
+        /* flex-wrap: nowrap;*/
+        /*overflow: auto;*/
+        /*height: 100%;*/
+        /*align-items: center;*/
+        /*flex-direction: row !important;*/
+        border: 1px solid #dedede !important;
+    }
+    .fecility ul li{
+        border-bottom: none !important;
+    }
+    .border-full{
+        border: none !important;
+    }
+     .fecility ul li .nav-link{
+        font-size: 15px;
+    }
+    
+      .product-image img{
+        width: 100% !important;
+        height: auto;
+    }
+    .aboutcont h4,   .aboutcont h3{
+        color: #ffffff;
+    
+    
+    }
+    .aboutcont{
+        color: #ffffff;
+        background-color: #fabe30;
+        padding: 20px 10px;
+    }
+    .product-image{
+        display: flex;
+        justify-items: center;
+        align-items: center; 
+        flex-direction: column;
+    }
+    .our-service-slider p{
+           height: 72px;
+    }
+    .our-service-slider h5{
+        height: 107px;
+    }
+    .web-view,.web-view-tab{
+        display: none;
+    }
+    
+    .mobile-tab{
+        display:block !important;
+    }
+    .mob-view {
+         display:block !important;
+    }
+    .mobile-tab ul li a:active,.mobile-tab ul li a:hover{
+     background-color: #fabe30;
+     color:white;
+    }
+     .mobile-tab ul li a{
+         display:flex;
+         color: #000;
+    /*background-color: #fabe30;*/
+        text-decoration: none;
+    width: 100%;
+    text-align: left;
+    border-radius: 0;
+    padding:20px 10px !important;
+     }
+     .mobile-tab ul li img{
+         width:30px;
+         height:30px;
+         
+     }   .mobile-tab ul li div {
+      margin-right:15px;
+     }
+     .mobile-tab{
+         display:block !important;
+     }
+     .mobile-tab ul{
+        
+            display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    border: 1px solid #3333;
+        
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .navbar-expand-lg .navbar-collapse{
+        padding-left: 0px;
+        background-color: #ffffff;
+    }
+    .nav-link{
+        color: #000;
+    }
+    .service{
+        padding-bottom: 0px !important;
+    }
+    .testimonial{
+        padding-bottom: 0px;
+    }
+    .contact{
+        padding-top: 30px; 
+    }
+    .about-details{
+        padding-top: 30px;
+    }
+    .swiper-button-next{
+        display: none;
+    }
+    .swiper-button-prev{
+        display: none;
+    }
+    #next-slide p{
+        padding-bottom: 0px;
+    }
+
+     /* About */
+     .aboutcont{
+        margin-top: 30px;
+    }
+
+    /* product as service */
+    .about-area .about-image img {
+        margin-bottom: 40px;
+    }
+    /* Event Rental */
+    blockquote{
+        font-size: 30px;
+    }
+    .rental{
+        padding-bottom: 50px !important;
+    }
+    
+    .card{
+        max-width: 100% !important;
+    }
+    .event-img img{
+        margin-bottom: 30px;
+    }
+    
+   
+}
+.mobile-tab{
+    display:none;
+}
+.area{
+    display:none;
+}

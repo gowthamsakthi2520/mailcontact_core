@@ -1,0 +1,147 @@
+.fecility .nav-link,
+.fecility .nav-link:hover {
+  line-height: 20px !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 20px 10px !important;
+}
+
+.fecility button.nav-link.active {
+  color: white;
+
+  background-color: #fabe30;
+  width: 100%;
+  text-align: left;
+  border-radius: 0;
+}
+.fecility ul li {
+  border-bottom: 1px solid #333 !important;
+}
+.fecility ul li {
+  padding: 0;
+}
+.fecility ul li .nav-link {
+  width: 100%;
+  padding: 20px 10px !important;
+  text-align: left;
+  padding: 10px;
+  border: 0 !important;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.fecility ul li .nav-link div {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.fecility ul li:hover .nav-link {
+  color: white;
+  background-color: #fabe30;
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+  border: 0 !important;
+}
+.fecility .nav-link {
+  color: black;
+}
+
+.fecility .nav-link.active,
+.fecility .nav-link.active:hover {
+  border: none !important;
+}
+.fecility .nav-link.active,
+.fecility .nav-tabs {
+  
+}
+
+.fecility ul li button,
+.fecility ul li button:hover {
+  font-weight: 600;
+  font-size: 17px;
+  padding: 0;
+  text-transform: capitalize;
+}
+
+.fecility .tab-content h3 {
+  font-size: 20px;
+  padding: 25px 0;
+  font-weight: 700;
+  margin: 0;
+}
+.page-title {
+  color: #fabe30;
+  font-weight: 600;
+}
+.undeline {
+  position: relative;
+}
+
+.undeline::before {
+  content: "";
+  position: absolute;
+  background-color: #fabe30;
+  width: 75px;
+  height: 2px;
+  bottom: -8px;
+  left: 0;
+}
+
+.bg-grey {
+  background: #fafafa;
+}
+.box-shadow {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.tab-pane > div > div {
+  /* height:440px; */
+  text-align: justify;
+}
+.tab-pane > div > div img {
+  height: 100%;
+}
+@media screen and (min-width: 1024px) {
+  .px-40 {
+    padding: 0 40px;
+  }
+}
+.faclitabs .nav-link {
+  border: 0px !important;
+  padding-bottom: 10px !important;
+}
+.firsttline {
+  font-size: 20px;
+  font-weight: 600;
+  color: gray;
+}
+
+.line-35 {
+  line-height: 35px;
+}
+/* .faclitabs .nav-link {
+  border: 0px;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  color: #666;
+  text-align: left;
+}
+.faclitabs .nav-link img {
+  width: 45px;
+  margin-right: 13px;
+}
+.faclitabs .nav-item {
+  border-bottom: 1px solid #dedede;
+} */
+
+.border-full {
+  border: 1px solid #3333;
+}
+.highlight {
+  color: #fabe30;
+  font-weight: 600;
+}
